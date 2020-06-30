@@ -49,10 +49,11 @@ html {
 
 body {
   background: url('./assets/birds-background.jpg') no-repeat;
-  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  background-attachment: fixed;
+  margin: 0;
 }
 </style>
